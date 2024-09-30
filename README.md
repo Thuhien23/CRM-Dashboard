@@ -2,34 +2,34 @@
 ## About this project
 ### Total Metrics:
 
-Total Leads: 3,000
+- Total Leads: 3,000
 
-Total Deal Value: $8.3M
+- Total Deal Value: $8.3M
 
-Closed Deal Value: $931.3K
+- Closed Deal Value: $931.3K
 
-Conversion Rate: 11.6%
+- Conversion Rate: 11.6%
 
-Lost Rate: 2%
+- Lost Rate: 2%
 
 ### Leads & Deals by Product:
-Leads by Product: SAAS (43%), Services (38%), Custom Solution (19%)
+- Leads by Product: SAAS (43%), Services (38%), Custom Solution (19%)
 
-Deal Value by Product: Services (40%), SAAS (38%), Custom Solution (22%)
+- Deal Value by Product: Services (40%), SAAS (38%), Custom Solution (22%)
 
-Conversion Rate by Product: SAAS (35%), Custom Solution (33%), Services (32%)
+- Conversion Rate by Product: SAAS (35%), Custom Solution (33%), Services (32%)
 
 ### Leads by Sales Agent:
-Laura Thompson leads in deal value with $218.6K (93 closed leads), followed by Michael Brown and Jessica Martinez.
+- Laura Thompson leads in deal value with $218.6K (93 closed leads), followed by Michael Brown and Jessica Martinez.
 
 ### Conversion Rate by Country:
-Netherlands leads with 15.0%, followed by Portugal (13.7%) and Spain (13.2%).
+- Netherlands leads with 15.0%, followed by Portugal (13.7%) and Spain (13.2%).
 
 ### Closed Deal Value by Month:
-Closed deal values fluctuate between $0K and $200K per month, with actual closed deals often lower than expected closed deals.
+- Closed deal values fluctuate between $0K and $200K per month, with actual closed deals often lower than expected closed deals.
 
 ### Time to Close Deals:
-The average time to close a deal is 63 weeks, with some variations depending on the product and sales agent.
+- The average time to close a deal is 63 weeks, with some variations depending on the product and sales agent.
 
 ## Insights:
 **High Conversion Rate for SAAS Products:**
@@ -49,3 +49,6 @@ With a 2% lost rate, most leads are retained, but it is still crucial to analyze
 
 **Efficiency in Deal Closures:**
 Some agents, like Sarah Davis and David Wilson, close deals faster (52-54 weeks). Their methods could be shared across the team to reduce the time to close deals.
+
+![CRM Dashboard-images-0](https://github.com/user-attachments/assets/99725677-4df7-45de-aa26-5b3c5a90b853)
+![CRM Dashboard-images-1](https://github.com/user-attachments/assets/e1413918-28db-405c-b2f4-09a2dc9f85d4)
